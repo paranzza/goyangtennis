@@ -1,4 +1,5 @@
-gitfrom selenium import webdriver
+#셀레니움 시작
+from selenium import webdriver
 
 import pyautogui
 
